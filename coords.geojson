@@ -1,0 +1,1409 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "8/6/2021",
+        "length": "300",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.098993,
+          64.091046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frostastaðargatnamót",
+        "date": "20/6/2021",
+        "length": "4",
+        "area": "F208-Frostastaðavatn",
+        "description": "Frostastaðargatnamót",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.046658,
+          64.032267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalshraun",
+        "date": "21/6/2021",
+        "length": "20",
+        "area": "F225-Dómadalshraun",
+        "description": "Dómadalshraun, pollur",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.115328,
+          64.030617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalshraun",
+        "date": "24/6/2021",
+        "length": "15",
+        "area": "F225-Dómadalshraun",
+        "description": "Dómadalshraun",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.111173,
+          64.029556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalshraun",
+        "date": "25/6/2021",
+        "length": "65",
+        "area": "F225-Dómadalshraun",
+        "description": "Dómadalshraun, pollur",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.115528,
+          64.030556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalshraun",
+        "date": "25/6/2021",
+        "length": "37",
+        "area": "F225-Dómadalshraun",
+        "description": "Dómadalshraun, pollur",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.115528,
+          64.030556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fitjunum",
+        "date": "27/6/2021",
+        "length": "8",
+        "area": "F225-Fitjar",
+        "description": "Fitjunum",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.29232,
+          64.035417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "2/7/2021",
+        "length": "0",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.05535,
+          64.084595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "2/7/2021",
+        "length": "0",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.061263,
+          64.09142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "2/7/2021",
+        "length": "0",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.054335,
+          64.089642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandbrekkan",
+        "date": "5/7/2021",
+        "length": "0",
+        "area": "F225-Landshraun",
+        "description": "Landmannaleið, fyrir sandbrekkuna",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.570638,
+          64.084892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandbrekkan",
+        "date": "6/7/2021",
+        "length": "20",
+        "area": "F225-Landshraun",
+        "description": "Landmannaleið, fyrir sandbrekkuna",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.567348,
+          64.084015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "6/7/2021",
+        "length": "200",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.051313,
+          64.084858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalshraun",
+        "date": "8/7/2021",
+        "length": "100",
+        "area": "F225-Dómadalshraun",
+        "description": "Dómadalshraun, þar sem stóri pollurinn var áður",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.114377,
+          64.030936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapolli",
+        "date": "8/7/2021",
+        "length": "50",
+        "area": "Hnausapollur",
+        "description": "Sigölduleið, rétt hjá Hnausapolli",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.048563,
+          64.068625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigölduleið",
+        "date": "8/7/2021",
+        "length": "80",
+        "area": "F208-Sigölduhraun",
+        "description": "Sigölduleið, rétt hjá minnismerki",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.051788,
+          64.089652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "8/7/2021",
+        "length": "69",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.091853,
+          64.091313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "8/7/2021",
+        "length": "0",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.057188,
+          64.089635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "9/7/2021",
+        "length": "10",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.054067,
+          64.089563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "9/7/2021",
+        "length": "15",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.065037,
+          64.092037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "9/7/2021",
+        "length": "10",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.082293,
+          64.093495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frostastaðarvatn",
+        "date": "9/7/2021",
+        "length": "20",
+        "area": "F225-Frostastaðavatn",
+        "description": "Norðan við Frostastaðarvatn",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.047951,
+          64.032167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frostastaðarvatn",
+        "date": "11/7/2021",
+        "length": "166",
+        "area": "F225-Frostastaðavatn",
+        "description": "Norðan við Frostastaðarvatn",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.050438,
+          64.032438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapoll",
+        "date": "13/7/2021",
+        "length": "281",
+        "area": "Hnausapollur",
+        "description": "Norðan við Hnausapoll",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.047278,
+          64.063589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjallavað",
+        "date": "13/7/2021",
+        "length": "41",
+        "area": "F208-Bjallavað",
+        "description": "Norðan við Bjallavað",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.108068,
+          64.10722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigöldu",
+        "date": "13/7/2021",
+        "length": "131",
+        "area": "F208-Sigölduhraun",
+        "description": "Sunnan við Sigöldu",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.136822,
+          64.153393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landmannaleið",
+        "date": "13/7/2021",
+        "length": "150",
+        "area": "F225-Landshraun",
+        "description": "Landmannaleið, Lambaskarð",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.374995,
+          64.061172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapoll",
+        "date": "16/7/2021",
+        "length": "44",
+        "area": "Hnausapollur",
+        "description": "Norðan við hnausapoll",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.049992,
+          64.066135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandbrekkan",
+        "date": "17/7/2021",
+        "length": "28",
+        "area": "F225-Landshraun",
+        "description": "Neðan við sandbrekkuna á F225",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.566307,
+          64.084755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandbrekkan",
+        "date": "17/7/2021",
+        "length": "126",
+        "area": "F225-Landshraun",
+        "description": "Í sandbrekkunni á F225",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.561165,
+          64.084415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vestri friðlandsmörk",
+        "date": "17/7/2021",
+        "length": "44",
+        "area": "Annað",
+        "description": "Vestan megin við friðlandsmörk",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.407267,
+          64.067983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tungnaáröræfi",
+        "date": "25/7/2021",
+        "length": "40",
+        "area": "Annað",
+        "description": "Tungnaáröræfi",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.531952,
+          64.330973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dyngjuleið",
+        "date": "25/7/2021",
+        "length": "60",
+        "area": "Dynjuleið",
+        "description": "Dyngjuleið",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.281178,
+          64.112978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hekluafleggjara",
+        "date": "25/7/2021",
+        "length": "500",
+        "area": "F225-Landshraun",
+        "description": "Vestan við austari Hekluafleggjara á F225",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.536542,
+          64.074482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjallavað",
+        "date": "25/7/2021",
+        "length": "0",
+        "area": "F208-Bjallavað",
+        "description": "Við Bjallavað",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.102558,
+          64.104225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigöldugljúfur",
+        "date": "30/7/2021",
+        "length": "500",
+        "area": "F208-Sigöldugljúfur",
+        "description": "Við Sigöldugljúfur",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.116248,
+          64.158933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapolli",
+        "date": "31/7/2021",
+        "length": "15",
+        "area": "Hnausapollur",
+        "description": "Að Hnausapolli",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.040512,
+          64.034679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Sigöldugljúfri",
+        "date": "31/7/2021",
+        "length": "0",
+        "area": "F208-Sigöldugljúfur",
+        "description": "Á línuvegi að Sigöldugljúfri",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.13867,
+          64.059675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapoll",
+        "date": "1/8/2021",
+        "length": "19",
+        "area": "Hnausapollur",
+        "description": "Sunnan við Hnausapoll",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.101282,
+          64.087658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laugaveginum",
+        "date": "2/8/2021",
+        "length": "564",
+        "area": "Annað",
+        "description": "Á Laugaveginum, norðan Stórahvers en sunnan Skallaafleggjara",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.050888,
+          64.073005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "3/8/2021",
+        "length": "10",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.057227,
+          64.086141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "3/8/2021",
+        "length": "27",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.056965,
+          64.086949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "3/8/2021",
+        "length": "70",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.052963,
+          64.08463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landmannalaugum",
+        "date": "5/8/2021",
+        "length": "18",
+        "area": "Laugar",
+        "description": "Landmannalaugum",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.059423,
+          64.066689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapolli",
+        "date": "7/8/2021",
+        "length": "50",
+        "area": "Hnausapollur",
+        "description": "Nálægt Hnausapolli",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.114292,
+          64.07175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalshraun",
+        "date": "10/8/2021",
+        "length": "4",
+        "area": "F225-Dómadalshraun",
+        "description": "Dómadalshraun",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.050242,
+          64.067303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalshraun/Frostastaðavatn",
+        "date": "10/8/2021",
+        "length": "25",
+        "area": "F225-Dómadalshraun",
+        "description": "Dómadalshraun/Frostastaðavatn",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.033918,
+          64.07879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ljótipollur",
+        "date": "10/8/2021",
+        "length": "15",
+        "area": "Ljótipollur",
+        "description": "Ljótipollur",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.059138,
+          64.091547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ljótipollur",
+        "date": "10/8/2021",
+        "length": "5",
+        "area": "Ljótipollur",
+        "description": "Ljótipollur",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.014113,
+          64.093994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ljótipollur/línuvegur",
+        "date": "10/8/2021",
+        "length": "15",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "Ljótipollur/línuvegur",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.061875,
+          64.084007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapolls/Eskihlíðarvatni",
+        "date": "13/8/2021",
+        "length": "50",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Á 208 milli Hnausapolls og afleggjara að Eskihlíðarvatni",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.050896,
+          64.092862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapoll",
+        "date": "13/8/2021",
+        "length": "211",
+        "area": "Hnausapollur",
+        "description": "Norðan við Hnausapoll",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.056729,
+          64.091876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dyngjuleið",
+        "date": "14/8/2021",
+        "length": "10",
+        "area": "Dynjuleið",
+        "description": "Dyngjuleið, vestan Laufdalsvatns",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.054463,
+          64.084778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "22/8/2021",
+        "length": "156",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.050537,
+          64.091519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskihlíðarhnausa",
+        "date": "22/8/2021",
+        "length": "92",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Eskihlíðarhnausa",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.040935,
+          64.079226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapoll",
+        "date": "26/8/2021",
+        "length": "20",
+        "area": "Hnausapollur",
+        "description": "Norðan við Hnausapoll",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.03351,
+          64.085098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapoll",
+        "date": "26/8/2021",
+        "length": "83",
+        "area": "Hnausapollur",
+        "description": "Norðan við Hnausapoll",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.985281,
+          64.050983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapoll",
+        "date": "27/8/2021",
+        "length": "10",
+        "area": "Hnausapollur",
+        "description": "Norðan við Hnausapoll",
+        "year": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.005352,
+          64.044515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haldórsgil",
+        "date": "22/7/2022",
+        "length": "25",
+        "area": "F208-Kýlingar",
+        "description": "Viðkvæmur jarðvegur (Mossi)",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9674586,
+          63.9851812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapollur",
+        "date": "21/7/2022",
+        "length": "20",
+        "area": "Hnausapollur",
+        "description": "Steinilagður sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0339523,
+          64.0552241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F225 hjá valahnúkum ",
+        "date": "9/8/2022",
+        "length": "40",
+        "area": "F225-Valahnjúkur",
+        "description": "Sandur ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.495139,
+          64.076023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Á dyngjuleið rétt hjá Valagjá",
+        "date": "9/8/2022",
+        "length": "27",
+        "area": "Dynjuleið",
+        "description": "hraun melur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.5016,
+          64.065016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Á dyngjuleið ",
+        "date": "9/8/2022",
+        "length": "30",
+        "area": "Dynjuleið",
+        "description": "sendið gróðurlendi ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.5025,
+          64.071708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur frá Sigölduleið að ljótapolli ",
+        "date": "13/7/2022",
+        "length": "200",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "Sandi ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.01025,
+          64.0726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norðan við Frostastaðavatn",
+        "date": "15/8/2022",
+        "length": "400",
+        "area": "F225-Frostastaðavatn",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0028209,
+          64.01939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F224 milli landmallalauga og sólvangs ",
+        "date": "9/7/2022",
+        "length": "10",
+        "area": "Laugar",
+        "description": "Hélumosi, Mosi og lynggróður",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.02799,
+          64.000976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Á sigölduleið vestan við Tjörvafell og Hnausapoll ",
+        "date": "1/7/2022",
+        "length": "131",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "sandur og melur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0301,
+          64.0253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austan við Dómadalsvatn",
+        "date": "26/8/2022",
+        "length": "25",
+        "area": "F225-Frostastaðavatn",
+        "description": "hraun og sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0299851,
+          64.017939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austan Dómadalshrauns",
+        "date": "26/8/2022",
+        "length": "5",
+        "area": "F225-Dómadalshraun",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.03,
+          64.019436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Á veginum niður í Gjána, ca. 1km fyrir Gjána.",
+        "date": "10/6/2023",
+        "length": "2",
+        "area": "Annað",
+        "description": "För af hefla-vélinni sem snúaði í sandinum.",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.725357,
+          64.149702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Á milli Hjálparfoss og Stangar",
+        "date": "14/6/2023",
+        "length": "25",
+        "area": "Annað",
+        "description": "Einhver sem snúaði við í sandinum ",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.81214,
+          64.138325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ca. 4km fyrir Jökulheimar",
+        "date": "17/6/2023",
+        "length": "75",
+        "area": "Annað",
+        "description": "fór beint í sandi.",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.251199,
+          64.309666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rétt við Tekjulindir",
+        "date": "17/6/2023",
+        "length": "20",
+        "area": "Annað",
+        "description": "rétt við veginn,örugglega einhver sem snúaði  ",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.319495,
+          64.294923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ca. 700m fyrir landamæri þjóðgarðsins þar sem “Jökulheimar halda áfram” skiltið er. ",
+        "date": "17/6/2023",
+        "length": "250",
+        "area": "Annað",
+        "description": " För af bílum sem þorðu ekki að keyra í polli.",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.339379,
+          64.282467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Förin fara frá F208 rétt á milli Sigöldufoss og bílastæðisins fyrir Sigöldugljúfur og enda á beygunni á slóðinum í Sgljúfur.",
+        "date": "28/6/2023",
+        "length": "600",
+        "area": "F208-Sigöldugljúfur",
+        "description": "Stutt leið til að fara á Sigöldugljúfur. ",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.147549,
+          64.158143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Á Sigölduleið ca. 1km eftir Siguldufoss.",
+        "date": "28/6/2023",
+        "length": "20",
+        "area": "F208-Sigalda",
+        "description": "djúp för. ",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.156847,
+          64.161559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rétt fyrir neðan hin förin (12.).",
+        "date": "28/6/2023",
+        "length": "50",
+        "area": "Annað",
+        "description": "einhver sem var að fylgjast með veginn, bara utanvega..",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.161319,
+          64.161432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Á milli Hjálparfoss og Stangar",
+        "date": "30/6/2023",
+        "length": "100",
+        "area": "Annað",
+        "description": "allskonar för sem voru að safnast: fólk sem keyrði uv til að snúa við, fólk sem var að fygjast með veginn bara til hlíðar..",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.792563,
+          64.142977
+        ]
+      }
+    }
+  ]
+}

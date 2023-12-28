@@ -1,0 +1,39 @@
+CREATE TABLE IF NOT EXISTS area (
+    id SERIAL PRIMARY KEY NOT NULL,
+    name CHARACTER VARYING(255)
+);
+
+CREATE TABLE IF NOT EXISTS zone (
+    id SERIAL PRIMARY KEY NOT NULL,
+    name CHARACTER VARYING(255),
+    area_id INTEGER NOT NULL,
+    FOREIGN KEY (area_id) REFERENCES area (id)
+);
+
+CREATE TABLE IF NOT EXISTS type (
+    id SERIAL PRIMARY KEY NOT NULL,
+    name CHARACTER VARYING(255)
+);
+
+CREATE TABLE IF NOT EXISTS track (
+    id SERIAL PRIMARY KEY NOT NULL,
+    name CHARACTER VARYING(255) NOT NULL,
+    date DATE,
+    length FLOAT,
+    description CHARACTER VARYING(255),
+    year INTEGER,
+    area_id INTEGER NOT NULL,
+    FOREIGN KEY (area_id) REFERENCES area (id)
+);
+
+CREATE TABLE IF NOT EXISTS geometry (
+    id SERIAL PRIMARY KEY NOT NULL,
+    coordinates POINT,
+    type_id INTEGER NOT NULL,
+    FOREIGN KEY (type_id) REFERENCES type (id)
+    track_id INTEGER NOT NULL,
+    FOREIGN KEY (track_id) REFERENCES track (id)
+);
+
+
+

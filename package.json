@@ -1,6 +1,6 @@
 {
     "name": "offtheroadtracker_api",
-    "version": "1.4.0",
+    "version": "0.1.0",
     "description": "Collection of off the road tracks in the Icelandic highlands",
     "main": "src/app.js",
     "scripts": {

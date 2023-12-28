@@ -1,0 +1,1745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F208",
+        "date": "20/7/2022",
+        "length": "60",
+        "area": "F208-Sigölduhraun",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F208 Sigöldu",
+        "date": "20/7/2022",
+        "length": "10",
+        "area": "F208-Sigölduhraun",
+        "description": "Steinilagður sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Máni - Rauðhóll",
+        "date": "17/7/2022",
+        "length": "7",
+        "area": "Annað",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F208 Sigöldu (línuvegur)",
+        "date": "9/8/2022",
+        "length": "5",
+        "area": "F208-Sigölduhraun",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F225 (enda hrauns)",
+        "date": "3/8/2022",
+        "length": "10",
+        "area": "F225-Frostastaðavatn",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F225 (enda hrauns)",
+        "date": "29/7/2022",
+        "length": "100",
+        "area": "F225-Frostastaðavatn",
+        "description": "Steinilagður sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F208 Haldórsgil",
+        "date": "16/8/2022",
+        "length": "10",
+        "area": "F208-Kýlingar",
+        "description": "Steinað",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jökullheimar",
+        "date": "14/8/2022",
+        "length": "5",
+        "area": "Annað",
+        "description": "Steinað",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dynjuleið",
+        "date": "28/7/2022",
+        "length": "10",
+        "area": "Dynjuleið",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valagjá",
+        "date": "28/7/2022",
+        "length": "20",
+        "area": "Dynjuleið",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rauðafosskvísl",
+        "date": "18/8/2022",
+        "length": "2",
+        "area": "F225-Rauðafossakvísl",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F225 Valagjá",
+        "date": "21/8/2022",
+        "length": "10",
+        "area": "Dynjuleið",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F225 Rauðufossakv+isl",
+        "date": "21/8/2022",
+        "length": "5",
+        "area": "F225-Rauðafossakvísl",
+        "description": "Gróður",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F225 við gatnamót 208 ",
+        "date": "23/8/2022",
+        "length": "30",
+        "area": "F225-Frostastaðavatn",
+        "description": "Sandur með smá gróðri ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Áður en komið er að gatnamótunum F225 og 208 hjá frostastaðavatni á dómadalsleið ",
+        "date": "23/8/2022",
+        "length": "20",
+        "area": "F225-Frostastaðavatn",
+        "description": "Sandur með smá gróðri ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dyngjuleið eftir Rallý ",
+        "date": "9/8/2022",
+        "length": "33",
+        "area": "Dynjuleið",
+        "description": "sendið gróðurlendi ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dyngjuleið eftir Rallý ",
+        "date": "9/8/2022",
+        "length": "100",
+        "area": "Dynjuleið",
+        "description": "sandi með smá gróðri ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dyngjuleið eftir rallý ",
+        "date": "9/8/2022",
+        "length": "44",
+        "area": "Dynjuleið",
+        "description": "sendið gróðurlendi ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dyngjuleið eftir Rallý ",
+        "date": "9/8/2022",
+        "length": "30",
+        "area": "Dynjuleið",
+        "description": "sandur og smá gróður ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F225 í dómadal við vað ",
+        "date": "23/8/2022",
+        "length": "22",
+        "area": "F225-Dómadalur",
+        "description": "í möl og gróðri ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "við valahnúka á ´F225 ",
+        "date": "23/8/2022",
+        "length": "67",
+        "area": "F225-Valahnjúkur",
+        "description": "í sandi ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "á sandsléttunni við valahnúka ",
+        "date": "23/8/2022",
+        "length": "100",
+        "area": "F225-Valahnjúkur",
+        "description": "í sandi ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "við frostastaðavatn þar sem pollurinn var í byrjun sumars",
+        "date": "18/6/2022",
+        "length": "50",
+        "area": "F208-Frostastaðavatn",
+        "description": "í möl og mosa ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "við frostastaðavatn þar sem pollurinn var í byrjun sumars",
+        "date": "18/6/2022",
+        "length": "96",
+        "area": "F208-Frostastaðavatn",
+        "description": "í möl með gróðri ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalsleið, Valagjá afleggjari",
+        "date": "21/8/2022",
+        "length": "30",
+        "area": "F225-Valahnjúkur",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalsleið, eftir rauðufossakvísl",
+        "date": "21/8/2022",
+        "length": "50",
+        "area": "F225-Kringlan",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalsleið, eftir rauðufossakvísl",
+        "date": "21/8/2022",
+        "length": "150",
+        "area": "F225-Kringlan",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalsleið, Grass auðn",
+        "date": "21/8/2022",
+        "length": "40",
+        "area": "F225-Kringlan",
+        "description": "Grass og mossi",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalsleið, Dómadal",
+        "date": "21/8/2022",
+        "length": "40",
+        "area": "F225-Frostastaðavatn",
+        "description": "Grass og mossi",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F208 Sandinum",
+        "date": "23/8/2022",
+        "length": "30",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F208 Sandinum",
+        "date": "23/8/2022",
+        "length": "20",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F225 ",
+        "date": "23/8/2022",
+        "length": "30",
+        "area": "F225-Landshraun",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F225 Dómadal",
+        "date": "25/8/2022",
+        "length": "20",
+        "area": "F225-Frostastaðavatn",
+        "description": "Gróður",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svartikrókur",
+        "date": "25/8/2022",
+        "length": "250",
+        "area": "Svartikrókur",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austan Dómadalshrauns",
+        "date": "26/8/2022",
+        "length": "32",
+        "area": "F225-Dómadalshraun",
+        "description": "sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austan Dómadalshrauns",
+        "date": "26/8/2022",
+        "length": "10",
+        "area": "F225-Dómadalshraun",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við bílastæði að Ljótapolli",
+        "date": "26/8/2022",
+        "length": "4",
+        "area": "Ljótipollur",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við bílastæði að Ljótapolli",
+        "date": "26/8/2022",
+        "length": "15",
+        "area": "Ljótipollur",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalshraun",
+        "date": "26/8/2022",
+        "length": "37",
+        "area": "F225-Dómadalshraun",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalur rétt sunnan við Dómadalsháls",
+        "date": "26/8/2022",
+        "length": "30",
+        "area": "F225-Dómadalur",
+        "description": "sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fitjar",
+        "date": "26/8/2022",
+        "length": "3",
+        "area": "F208-Kýlingar",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hjá Frostastaðavatni",
+        "date": "27/8/2022",
+        "length": "131",
+        "area": "F208-Frostastaðavatn",
+        "description": "hraun melur, möl og mosi",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapollur",
+        "date": "27/8/2022",
+        "length": "250",
+        "area": "Hnausapollur",
+        "description": "möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "40",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "30",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "250",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur og mosi/gróður",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "12",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "30",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "6",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "8",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "6",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "6",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "110",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "40",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "57",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "25",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "3",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "65",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "70",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Línuvegur á milli Sigölduleiðar og Ljótapolls ",
+        "date": "27/8/2022",
+        "length": "30",
+        "area": "Línuvegur-Ljótipollur",
+        "description": "möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vegurinn á milli Rauðfossahvíslar og Dyngjuleiðar afleggjara",
+        "date": "29/8/2022",
+        "length": "1500",
+        "area": "F225-Rauðafossakvísl",
+        "description": "möl og sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vegurinn á milli Dyngjuleiðar afleggjara og niður að vegamótum 225 og 32",
+        "date": "29/8/2022",
+        "length": "4500",
+        "area": "F225-Landshraun",
+        "description": "möl og sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalshraun",
+        "date": "30/8/2022",
+        "length": "20",
+        "area": "F208-Sigalda",
+        "description": "sandur ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hjá Hnausapolli",
+        "date": "1/9/2022",
+        "length": "60",
+        "area": "Hnausapollur",
+        "description": "sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norðan Frostastaðavants",
+        "date": "1/9/2022",
+        "length": "40",
+        "area": "F208-Frostastaðavatn",
+        "description": "sandur ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gatnamót Sigöldu- og Landmannaleiðar",
+        "date": "1/9/2022",
+        "length": "20",
+        "area": "F208-Sigalda",
+        "description": "sandur ",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frá Hnausapolli að upphafi línuvegarins",
+        "date": "3/9/2022",
+        "length": "4000",
+        "area": "Hnausapollur",
+        "description": "Sandur, möl og gróf möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frá Frostastaðavatni að Bjallavaði",
+        "date": "4/9/2022",
+        "length": 0,
+        "area": "F208-Bjallavað",
+        "description": "Sandur, möl og gróf möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalur",
+        "date": "6/9/2022",
+        "length": "560",
+        "area": "F225-Dómadalur",
+        "description": "Sandur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landmannalaugar",
+        "date": "6/9/2022",
+        "length": "150",
+        "area": "Laugar",
+        "description": "gróið votlendi",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigölduleiðin",
+        "date": "7/9/2022",
+        "length": "3890",
+        "area": "F208-Sigölduhraun",
+        "description": "sandur, möl og gróf möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "208 Hjá Bjallavaði",
+        "date": "11/9/2022",
+        "length": "40",
+        "area": "F208-Bjallavað",
+        "description": "hraun melur",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalur og Ljótipollur",
+        "date": "16/9/2022",
+        "length": "386",
+        "area": "Ljótipollur",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hjá Hnausapolli",
+        "date": "16/9/2022",
+        "length": "320",
+        "area": "Hnausapollur",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "208 hjá línuvegi nær Bjallavaði",
+        "date": "16/9/2022",
+        "length": "50",
+        "area": "F208-Bjallavað",
+        "description": "Sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigölduleið",
+        "date": "19/9/2022",
+        "length": "9",
+        "area": "F208-Sigölduhraun",
+        "description": "sandur og möl",
+        "year": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjallavað, rétt utan friðlandsmarka",
+        "date": "12/5/2023",
+        "length": "500",
+        "area": "F208-Bjallavað",
+        "description": "Ekið mjög langt út fyrir veg",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við stakan tind rétt norðan við Bjallavað",
+        "date": "4/6/2023",
+        "length": "100",
+        "area": "F208-Sigölduhraun",
+        "description": "Nokkrir hringir teknir í sandinum ",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rétt sunnan við hnausapoll",
+        "date": "4/6/2023",
+        "length": "2",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Tveir bílar lagðir í sandinn, ekkert of langt út fyrir",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalur, frá Heklu afleggjara og upp að Landmannahelli",
+        "date": "20/6/2023",
+        "length": "2000",
+        "area": "F225-Dómadalur",
+        "description": "mörgum förum, sum voru ansi djúp",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigölduleið afleggjari að Eskihlíðarvatni",
+        "date": "16/6/2023",
+        "length": "60",
+        "area": "F225-Landshraun",
+        "description": "Sigölduleið afleggjari að Eskihlíðarvatni",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 km norður af Hnausapoll",
+        "date": "16/6/2023",
+        "length": "120",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "3 km norður af Hnausapoll",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 km norður af Hnausapoll",
+        "date": "16/6/2023",
+        "length": "80",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "3 km norður af Hnausapoll",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "208 við afleggjara að Eskihlíðarvatni",
+        "date": "22/6/2023",
+        "length": "50",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "208 við afleggjara að Eskihlíðarvatni",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalur ",
+        "date": "24/6/2023",
+        "length": "60",
+        "area": "F225-Dómadalur",
+        "description": "Dómadalur ",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalur",
+        "date": "27/6/2023",
+        "length": "100",
+        "area": "F225-Dómadalur",
+        "description": "Dómadalur",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalur",
+        "date": "27/6/2023",
+        "length": "80",
+        "area": "F225-Dómadalur",
+        "description": "Dómadalur",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjallavað",
+        "date": "5/7/2023",
+        "length": "60",
+        "area": "F208-Bjallavað",
+        "description": "Bjallavað",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Undir Eskihlíðarhnausum á 208",
+        "date": "5/7/2023",
+        "length": "150",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Undir Eskihlíðarhnausum á 208",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigalda, rétt við Hnausapoll",
+        "date": "5/7/2023",
+        "length": "50",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Sigalda, rétt við Hnausapoll",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við Hnausa",
+        "date": "5/7/2023",
+        "length": "80",
+        "area": "Hnausapollur",
+        "description": "Við Hnausa",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við Tjörvafell",
+        "date": "5/7/2023",
+        "length": "100",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Tjörvafell",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "500m. Áfram með Bjallavaði að Sigöldu. Viljugur UVA, akstur í hringi",
+        "date": "19/7/2023",
+        "length": "500",
+        "area": "F208-Sigölduhraun",
+        "description": "500m. Áfram með Bjallavaði að Sigöldu. Viljugur UVA, akstur í hringi",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigalda",
+        "date": "19/7/2023",
+        "length": "10",
+        "area": "F208-Sigalda",
+        "description": "Sigalda",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapollur",
+        "date": "7/7/2023",
+        "length": "30",
+        "area": "Hnausapollur",
+        "description": "Hnausapollur",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hnausapollur",
+        "date": "8/7/2023",
+        "length": "5",
+        "area": "Hnausapollur",
+        "description": "Hnausapollur",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalur, frá Heklu afleggjara",
+        "date": "8/7/2023",
+        "length": "10",
+        "area": "F225-Dómadalur",
+        "description": "Dómadalur, frá Heklu afleggjara",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dómadalur. Kringla",
+        "date": "30/6/2023",
+        "length": "6",
+        "area": "F225-Kringlan",
+        "description": "Dómadalur. Kringla",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Undir Eskihlíðarhnausum á 208",
+        "date": "9/7/2023",
+        "length": "30",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Undir Eskihlíðarhnausum á 208",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "208, við afleggjara að línuvegi að Ljótapolli.",
+        "date": "9/7/2023",
+        "length": "200",
+        "area": "Ljótipollur",
+        "description": "208, við afleggjara að línuvegi að Ljótapolli.",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við Hnausapoll",
+        "date": "9/7/2023",
+        "length": "60",
+        "area": "Hnausapollur",
+        "description": "Við Hnausapoll",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við Tjörvafell 208",
+        "date": "9/7/2023",
+        "length": "30",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Við Tjörvafell 208",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gatnamótin við Frostastaðavatn",
+        "date": "9/7/2023",
+        "length": "30",
+        "area": "F208-Frostastaðavatn",
+        "description": "Gatnamótin við Frostastaðavatn",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norðan við Frostastaðavant",
+        "date": "9/7/2023",
+        "length": "40",
+        "area": "F225-Frostastaðavatn",
+        "description": "Norðan við Frostastaðavant",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við Bjallavað/línuveg",
+        "date": "11/7/2023",
+        "length": "40",
+        "area": "F208-Sigölduhraun",
+        "description": "Við Bjallavað/línuveg",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við Bjallavað/línuveg",
+        "date": "11/7/2023",
+        "length": "10",
+        "area": "F208-Sigölduhraun",
+        "description": "Við Bjallavað/línuveg",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norðan við Hnausapoll",
+        "date": "11/7/2023",
+        "length": "30",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Norðan við Hnausapoll",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjallavað vestan megin",
+        "date": "13/7/2023",
+        "length": "15",
+        "area": "F208-Bjallavað",
+        "description": "Bjallavað vestan megin",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjallavað vestan megin",
+        "date": "13/7/2023",
+        "length": "10",
+        "area": "F208-Bjallavað",
+        "description": "Bjallavað vestan megin",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norðan megin við Frostastaðvatn",
+        "date": "18/7/2023",
+        "length": "100",
+        "area": "F225-Frostastaðavatn",
+        "description": "Norðan megin við Frostastaðvatn",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austan við Frostastaðavatn",
+        "date": "18/7/2023",
+        "length": "200",
+        "area": "F208-Frostastaðavatn",
+        "description": "Austan við Frostastaðavatn",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Undir Eskihlíðarhnausum á 208",
+        "date": "20/7/2023",
+        "length": "60",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "Undir Eskihlíðarhnausum á 208",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "208 Norðan við Hnausapoll",
+        "date": "20/7/2023",
+        "length": "200",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "208 Norðan við Hnausapoll",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "208 Sunnan við Hnausapoll",
+        "date": "20/7/2023",
+        "length": "60",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "208 Sunnan við Hnausapoll",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "208 Við Tjörvafell",
+        "date": "20/7/2023",
+        "length": "50",
+        "area": "F208-Eskihlíðarhnausar",
+        "description": "208 Við Tjörvafell",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Við afleggjara að Ljótapoll við Frostastaðavatn",
+        "date": "20/7/2023",
+        "length": "30",
+        "area": "Ljótipollur",
+        "description": "Við afleggjara að Ljótapoll við Frostastaðavatn",
+        "year": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      }
+    }
+  ]
+}
