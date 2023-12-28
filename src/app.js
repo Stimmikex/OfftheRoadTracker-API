@@ -1,6 +1,8 @@
 import express from "express";
 import dotenv from "dotenv";
 import cookieParser from "cookie-parser";
+import { setupInserter } from "./geoJsonReader.js"
+import { routerArea } from "./routes/Areas/areas.js";
 
 dotenv.config();
 
@@ -41,9 +43,19 @@ app.use((req, res, next) => {
 app.use(cookieParser());
 
 app.get("/", async (req, res) => {
-  const events = await getEvents();
-  res.json(events);
+  const filePath = '../coords.geojson';
+  const data = setupInserter(filePath, 
+  { "msg": 
+      { 
+      err : "Data was not inserted",
+      suc : "Data was inserted wihtout any issues"
+      }
+  })
+  data
+  res.json(data)
 });
+
+app.use("/area", routerArea);
 
 const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => {

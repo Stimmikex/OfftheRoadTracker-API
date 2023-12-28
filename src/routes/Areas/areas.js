@@ -1,7 +1,8 @@
 import dotenv from 'dotenv';
 import express from "express";
-import { getAreaById, getAllAreas } from '../../dataOut/Areas/areas'
-import { getZonesByAreaId } from '../../dataOut/Areas/Zones/zones'
+import { getAreaById, getAllAreas } from '../../dataOut/Areas/areas.js'
+import { getZonesByAreaId } from '../../dataOut/Areas/Zones/zones.js'
+import { param } from "express-validator";
 
 dotenv.config();
 
@@ -12,7 +13,7 @@ routerArea.get("/", async (req, res) => {
     res.json(events);
 });
 
-routerEvent.get("/:areaId", param("areaId"), async (req, res) => {
+routerArea.get("/:areaId", param("areaId"), async (req, res) => {
     const id = req.params.areaId;
     const area = await getAreaById(id);
     const zones = await getZonesByAreaId(id);

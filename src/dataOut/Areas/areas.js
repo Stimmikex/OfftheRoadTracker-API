@@ -1,4 +1,4 @@
-import { query } from './utils.js'
+import { query } from '../utils.js'
 
 export const getAreaById = async (id) => {
     const q = ''
@@ -11,7 +11,7 @@ export const getAreaById = async (id) => {
 }
 
 export const getAllAreas = async () => {
-    const q = ''
+    const q = 'SELECT * FROM area'
     try {
         const result = await query(q)
         return result.rows;
