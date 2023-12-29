@@ -10,5 +10,15 @@ export const getZonesByAreaId = async (id) => {
     }
 }
 export const getZoneCoorinatesById = async () => {}
-export const getZoneById = async () => {}
+
+export const getZoneById = async (id) => {
+    const q = 'SELECT * FROM zone WHERE id = $1'
+    try {
+        const result = await query(q, [id])
+        return result.rows;
+    } catch (e) {
+        console.error('')
+    }
+}
+
 export const getZoneByName = async () => {}

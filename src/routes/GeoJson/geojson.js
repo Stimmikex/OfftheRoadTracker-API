@@ -30,15 +30,15 @@ routerGeoJson.get('/coords', async (req, res) => {
       }
 });
 
-// routerGeoJson.get('/coords/insert', async (req, res) => {
+routerGeoJson.get('/coords/insert', async (req, res) => {
 
-//     const __filename = fileURLToPath(import.meta.url);
-//     const __dirname = dirname(__filename);
-//     const geojsonFilePath = join(__dirname, '../../../coords.geojson');
+    const __filename = fileURLToPath(import.meta.url);
+    const __dirname = dirname(__filename);
+    const geojsonFilePath = join(__dirname, '../../../coords.geojson');
 
-//     const data = await getGeoData(geojsonFilePath);
-//     res.json(data)
-// });
+    const data = await getGeoData(geojsonFilePath);
+    res.json(data)
+});
 
 
 
@@ -58,12 +58,12 @@ routerGeoJson.get('/nocoords', async (req, res) => {
       }
 });
 
-// routerGeoJson.get('/nocoords/insert', async (req, res) => {
+routerGeoJson.get('/nocoords/insert', async (req, res) => {
 
-//     const __filename = fileURLToPath(import.meta.url);
-//     const __dirname = dirname(__filename);
-//     const geojsonFilePath = join(__dirname, '../../../nocoords.geojson');
+    const __filename = fileURLToPath(import.meta.url);
+    const __dirname = dirname(__filename);
+    const geojsonFilePath = join(__dirname, '../../../nocoords.geojson');
 
-//     const data = await getGeoData(geojsonFilePath);
-//     res.json(data)
-// });
+    const data = await getGeoData(geojsonFilePath);
+    res.json(data)
+});

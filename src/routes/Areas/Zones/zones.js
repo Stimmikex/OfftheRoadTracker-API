@@ -1,9 +1,11 @@
 import express from "express";
+import dotenv from 'dotenv';
+import { param } from "express-validator";
 import { 
     getZoneById, 
     getZoneByName, 
     getZoneCoorinatesById, 
- } from '../../../dataOut/Areas/Zones/zones'
+ } from '../../../dataOut/Areas/Zones/zones.js'
 
 dotenv.config();
 

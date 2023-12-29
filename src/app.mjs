@@ -3,6 +3,8 @@ import dotenv from "dotenv";
 import cookieParser from "cookie-parser";
 import { routerArea } from "./routes/Areas/areas.js";
 import { routerGeoJson } from "./routes/GeoJson/geojson.js";
+import { routerZones } from "./routes/Areas/Zones/zones.js";
+import { routerTrack } from "./routes/Areas/Zones/Tracks/tracks.js";
 
 dotenv.config();
 
@@ -48,6 +50,8 @@ app.get("/", async (req, res) => {
 
 app.use("/geojson", routerGeoJson);
 app.use("/area", routerArea);
+app.use("/zone", routerZones);
+app.use("/track", routerTrack);
 
 const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => {

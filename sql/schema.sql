@@ -22,8 +22,8 @@ CREATE TABLE IF NOT EXISTS track (
     length FLOAT,
     description CHARACTER VARYING(255),
     year INTEGER,
-    area_id INTEGER NOT NULL,
-    FOREIGN KEY (area_id) REFERENCES area (id)
+    zone_id INTEGER NOT NULL,
+    FOREIGN KEY (zone_id) REFERENCES zone (id)
 );
 
 CREATE TABLE IF NOT EXISTS geometry (

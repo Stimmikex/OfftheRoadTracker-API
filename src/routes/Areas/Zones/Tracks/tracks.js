@@ -1,13 +1,15 @@
 import dotenv from 'dotenv';
 import express from "express";
+import { param } from "express-validator";
 import { 
     getTracksByAreaId, 
     getTracksByDate, 
     getTracksById,
     getTracksByYear, 
     getTracksByZoneId,
-    getTracksLengthByZoneId,
-} from '../../../../dataOut/Areas/Zones/Tracks/tracks'
+    getTotalTrackLengthByZoneId,
+    getTotalTrackLengthOfZones,
+} from '../../../../dataOut/Areas/Zones/Tracks/tracks.js'
 
 dotenv.config();
 
@@ -19,9 +21,14 @@ routerTrack.get("/area/:areaId", param("areaId"), async (req, res) => {
     res.json(track);
 });
 
+routerTrack.get("/zone/length/", async (req, res) => {
+    const track = await getTotalTrackLengthOfZones();
+    res.json(track);
+});
+
 routerTrack.get("/zone/length/:zoneId", param("zoneId"), async (req, res) => {
     const id = req.params.zoneId;
-    const track = await getTracksLengthByZoneId(id);
+    const track = await getTotalTrackLengthByZoneId(id);
     res.json(track);
 });
 
