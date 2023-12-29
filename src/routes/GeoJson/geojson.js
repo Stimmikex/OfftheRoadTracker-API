@@ -3,7 +3,7 @@ import express from "express";
 import { promises as fs } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
-import { getGeoData } from '../../dataOut/GeoJson/inserted.js'
+import { getGeoData, getZonesFromGeoJson, setZonesFromGeoJson } from '../../dataOut/GeoJson/inserted.js'
 
 dotenv.config();
 
@@ -65,5 +65,25 @@ routerGeoJson.get('/nocoords/insert', async (req, res) => {
     const geojsonFilePath = join(__dirname, '../../../nocoords.geojson');
 
     const data = await getGeoData(geojsonFilePath);
+    res.json(data)
+});
+
+routerGeoJson.get('/zones/get/insert', async (req, res) => {
+
+    const __filename = fileURLToPath(import.meta.url);
+    const __dirname = dirname(__filename);
+    const geojsonFilePath = join(__dirname, '../../../Zones.geojson');
+
+    const data = await getZonesFromGeoJson(geojsonFilePath);
+    res.json(data)
+});
+
+routerGeoJson.get('/zones/set/insert', async (req, res) => {
+
+    const __filename = fileURLToPath(import.meta.url);
+    const __dirname = dirname(__filename);
+    const geojsonFilePath = join(__dirname, '../../../Zones.geojson');
+
+    const data = await setZonesFromGeoJson(geojsonFilePath, 1);
     res.json(data)
 });

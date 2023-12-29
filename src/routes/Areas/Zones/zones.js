@@ -11,9 +11,9 @@ dotenv.config();
 
 export const routerZones = express.Router();
 
-routerZones.get("/:zoneId", param("zoneId"), async (req, res) => {
+routerZones.get("/", async (req, res) => {
     const id = req.params.zoneId;
-    const zone = await getZoneById(id);
+    const zone = await getAllZone(id);
     res.json(zone);
 });
 
@@ -26,5 +26,11 @@ routerZones.get("/name/:zoneName", param("zoneName"), async (req, res) => {
 routerZones.get("/coordinates/:zoneId", param("zoneId"), async (req, res) => {
     const id = req.params.zoneId;
     const zone = await getZoneCoorinatesById(id);
+    res.json(zone);
+});
+
+routerZones.get("/:zoneId", param("zoneId"), async (req, res) => {
+    const id = req.params.zoneId;
+    const zone = await getZoneById(id);
     res.json(zone);
 });

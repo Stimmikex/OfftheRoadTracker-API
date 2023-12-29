@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS area (
 
 CREATE TABLE IF NOT EXISTS zone (
     id SERIAL PRIMARY KEY NOT NULL,
-    name CHARACTER VARYING(255),
+    name CHARACTER VARYING(255) UNIQUE,
     area_id INTEGER NOT NULL,
     FOREIGN KEY (area_id) REFERENCES area (id)
 );
@@ -33,8 +33,19 @@ CREATE TABLE IF NOT EXISTS geometry (
     coordinates_height FLOAT,
     type_id INTEGER NOT NULL,
     FOREIGN KEY (type_id) REFERENCES type (id),
-    track_id INTEGER NOT NULL,
+    track_id INTEGER,
     FOREIGN KEY (track_id) REFERENCES track (id)
+);
+
+CREATE TABLE IF NOT EXISTS zone_fence (
+    id SERIAL PRIMARY KEY NOT NULL,
+    coordinates_lat FLOAT,
+    coordinates_long FLOAT,
+    coordinates_height FLOAT,
+    type_id INTEGER NOT NULL,
+    FOREIGN KEY (type_id) REFERENCES type (id),
+    zone_id INTEGER,
+    FOREIGN KEY (zone_id) REFERENCES zone (id)
 );
 
 
