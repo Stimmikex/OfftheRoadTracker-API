@@ -28,9 +28,11 @@ CREATE TABLE IF NOT EXISTS track (
 
 CREATE TABLE IF NOT EXISTS geometry (
     id SERIAL PRIMARY KEY NOT NULL,
-    coordinates POINT,
+    coordinates_lat FLOAT,
+    coordinates_long FLOAT,
+    coordinates_height FLOAT,
     type_id INTEGER NOT NULL,
-    FOREIGN KEY (type_id) REFERENCES type (id)
+    FOREIGN KEY (type_id) REFERENCES type (id),
     track_id INTEGER NOT NULL,
     FOREIGN KEY (track_id) REFERENCES track (id)
 );

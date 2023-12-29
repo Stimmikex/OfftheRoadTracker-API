@@ -10,8 +10,7 @@
         "dev": "npm run concurrently npm:dev:*",
         "start-dev": "nodemon ./src/app.js",
         "setup": "node ./src/setup.js",
-        "setup-news": "node ./sql/News/initNews.js",
-        "start": "node ./src/app.js"
+        "start": "node ./src/app.mjs"
     },
     "author": "",
     "license": "ISC",

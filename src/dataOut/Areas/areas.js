@@ -1,10 +1,10 @@
 import { query } from '../utils.js'
 
 export const getAreaById = async (id) => {
-    const q = ''
+    const q = 'SELECT * FROM area WHERE id = $1'
     try {
         const result = await query(q, [id])
-        return result.rows;
+        return result.rows[0];
     } catch (e) {
         console.error('')
     }

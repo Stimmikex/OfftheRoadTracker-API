@@ -37,12 +37,17 @@ const insertRunning = async (dataman) => {
     ]
     const sdata = await query(s, arrs)
     console.log(sdata.rows[0]);
-    const q = "INSERT INTO track (name, date, length, area, description, year) VALUES ($1, $2, $3, $4, $5, $6)";
+    const q = "INSERT INTO track (name, date, length, area, description, year) VALUES ($1, $2, $3, $4, $5, $6) RETURNING *";
     const arrq = [
       el.properties.area,
     ]
     const s1 = "SELECT id FROM type WHERE type = $1";
-    const q1 = "INSERT INTO geometry (type, coordinates) VALUES ($1, $2)";
+    const arrs1 = [
+      "Point",
+    ]
+    const s1data = await query(s, arrs1)
+    console.log(s1data.rows[0]);
+    const q1 = "INSERT INTO geometry (coordinates, typoe_id, track_id) VALUES ($1, $2)";
 
     console.log(el.properties.name, )
     console.log(el.geometry.type, el.geometry.coordinates)
