@@ -34,7 +34,12 @@ routerZones.get("/", async (req, res) => {
         };
     });
 
-    res.json(features);
+    res.json(
+        {
+            "type": "FeatureCollection",
+            "features": features
+        }
+    );
 });
 
 routerZones.get("/name/:zoneName", param("zoneName"), async (req, res) => {
