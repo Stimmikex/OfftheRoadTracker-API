@@ -62,9 +62,9 @@ export const getTotalTrackLengthOfZones = async () => {
 
 export const getTracksByDate = async (date) => {
     const q = `SELECT track.id, track.name, date, length, description, year, coordinates_lat, coordinates_long, coordinates_height, type.name AS type FROM track 
-        INNER JOIN geometry ON geometry.track_id = track.id
-        INNER JOIN type ON type.id = geometry.type_id 
-    WHERE date = $1`
+            INNER JOIN geometry ON geometry.track_id = track.id
+            INNER JOIN type ON type.id = geometry.type_id 
+        WHERE date = $1`
     try {
     const result = await query(q, [date])
     return result.rows;
