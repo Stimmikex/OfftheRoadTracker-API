@@ -21,4 +21,17 @@ export const getZoneById = async (id) => {
     }
 }
 
+export const getAllZone = async () => {
+    const q = `SELECT zone.name, coordinates_lat, coordinates_long, type_id, coordinates_height, type.name AS type FROM zone 
+                INNER JOIN zone_fence ON zone_fence.zone_id = zone.id
+                INNER JOIN type ON type.id = zone_fence.type_id
+            `
+    try {
+        const result = await query(q)
+        return result.rows;
+    } catch (e) {
+        console.error('')
+    }
+}
+
 export const getZoneByName = async () => {}
