@@ -2,6 +2,7 @@ import dotenv from 'dotenv';
 import express from "express";
 import { param } from "express-validator";
 import { 
+    getAllTracks,
     getTracksByAreaId, 
     getTracksByDate, 
     getTracksById,
@@ -10,10 +11,16 @@ import {
     getTotalTrackLengthByZoneId,
     getTotalTrackLengthOfZones,
 } from '../../../../dataOut/Areas/Zones/Tracks/tracks.js'
+import { convertGeoJson } from '../../../../utility/tracks.js';
 
 dotenv.config();
 
 export const routerTrack = express.Router();
+
+routerTrack.get("/", async (req, res) => {
+    const track = await getAllTracks();
+    res.json(convertGeoJson(track));
+});
 
 routerTrack.get("/area/:areaId", param("areaId"), async (req, res) => {
     const id = req.params.areaId;
@@ -36,31 +43,7 @@ routerTrack.get("/zone/length/:zoneId", param("zoneId"), async (req, res) => {
 routerTrack.get("/zone/:zoneId", param("zoneId"), async (req, res) => {
     const id = req.params.zoneId;
     const track = await getTracksByZoneId(id);
-    const features = [];
-    const feCo = {
-        "type": "FeatureCollection",
-        "features" : features,
-    }
-    track.forEach((tr) => {
-        const fe = {
-            "properties": {
-                "name": tr.name,
-                "date": tr.date,
-                "length": tr.length,
-                "description": tr.description,
-                "year": tr.year,
-            },
-            "geometry": {
-                "type": tr.type,
-                "coordinates": [
-                    tr.coordinates_lat,
-                    tr.coordinates_long,
-                ]
-            }
-        }
-        features.push(fe);
-    })
-    res.json(feCo);
+    res.json(convertGeoJson(track));
 });
 
 routerTrack.get("/date=:date", param("date"), async (req, res) => {
@@ -72,7 +55,7 @@ routerTrack.get("/date=:date", param("date"), async (req, res) => {
 routerTrack.get("/year=:year", param("year"), async (req, res) => {
     const id = req.params.year;
     const track = await getTracksByYear(id);
-    res.json(track);
+    res.json(convertGeoJson(track));
 });
 
 routerTrack.get("/:trackId", param("trackId"), async (req, res) => {

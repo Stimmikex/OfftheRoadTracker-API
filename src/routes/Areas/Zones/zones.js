@@ -19,7 +19,7 @@ routerZones.get("/", async (req, res) => {
         if (!acc[entry.name]) {
             acc[entry.name] = [];
         }
-        acc[entry.name].push([entry.coordinates_long, entry.coordinates_lat]);
+        acc[entry.name].push([entry.coordinates_lat, entry.coordinates_long]);
         return acc;
     }, {});
     

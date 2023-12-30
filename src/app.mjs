@@ -24,7 +24,7 @@ app.use(express.json({ limit: "50mb" }));
 app.use(express.static("public"));
 
 app.use((req, res, next) => {
-  res.header("Access-Control-Allow-Origin", `${frontUrl}`);
+  res.header("Access-Control-Allow-Origin", `*`);
   res.header(
     "Access-Control-Allow-Methods",
     "GET,PUT,POST,OPTIONS,DELETE,PATCH"
