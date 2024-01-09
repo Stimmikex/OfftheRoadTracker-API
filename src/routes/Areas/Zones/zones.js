@@ -57,5 +57,30 @@ routerZones.get("/coordinates/:zoneId", param("zoneId"), async (req, res) => {
 routerZones.get("/:zoneId", param("zoneId"), async (req, res) => {
     const id = req.params.zoneId;
     const zone = await getZoneById(id);
-    res.json(zone);
+
+    const groupedData = zone.reduce((acc, entry) => {
+        if (!acc[entry.name]) {
+            acc[entry.name] = [];
+        }
+        acc[entry.name].push([entry.coordinates_lat, entry.coordinates_long]);
+        return acc;
+    }, {});
+    
+    const features = Object.entries(groupedData).map(([name, coordinates]) => {
+        return {
+            type: "Feature",
+            properties: { name },
+            geometry: {
+                type: "Polygon",
+                coordinates: [coordinates]
+            }
+        };
+    });
+
+    res.json(
+        {
+            "type": "FeatureCollection",
+            "features": features
+        }
+    );
 });

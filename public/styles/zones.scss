@@ -1,0 +1,21 @@
+.zoneContainer {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    height: 10em;
+    &__zone {
+        padding: 1em;
+        margin: 0.1em;
+        display: grid;
+        grid-template-columns: 60% 40%;
+        border: solid black 0.1em;
+    }
+}
+.zoneContainer__zone__info {
+    .zi_image {
+        img {
+            height: 2em;
+            width: 2em;
+            margin-left: 1em;
+        }
+    }
+}

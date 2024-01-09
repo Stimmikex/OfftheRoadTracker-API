@@ -45,7 +45,7 @@ export const getTracksById = async (id) => {
                 WHERE track.id = $1`
     try {
     const result = await query(q, [id])
-    return result.rows;
+    return result.rows[0];
     } catch (e) {
     console.error('')
     }
@@ -57,7 +57,7 @@ export const getTotalTrackLengthByZoneId = async (zone_id) => {
     const q = `SELECT SUM(length) AS SumLength FROM track WHERE zone_id = $1`
     try {
     const result = await query(q, [zone_id])
-    return result.rows;
+    return result.rows[0];
     } catch (e) {
     console.error('')
     }

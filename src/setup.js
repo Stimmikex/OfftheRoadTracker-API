@@ -1,5 +1,3 @@
-// import pg from 'pg';
-import mysql from 'mysql2/promise';
 import dotenv from 'dotenv';
 import { promises as fs } from 'fs';
 
@@ -26,9 +24,8 @@ if (!connectionString) {
 
 const ssl = nodeEnv !== 'development' ? { rejectUnauthorized: false } : false;
 
-// const pool = new pg.Pool({ connectionString, ssl });
+const pool = new pg.Pool({ connectionString, ssl });
 
-const pool = new mysql.createPool({ connectionString, ssl });
 
 pool.on('error', (err) => {
   console.error('Unexpected error on idle client', err);

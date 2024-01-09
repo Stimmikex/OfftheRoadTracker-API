@@ -33,7 +33,7 @@ routerTrack.get("/zone/length/", async (req, res) => {
     res.json(track);
 });
 
-routerTrack.get("/zone/length/:zoneId", param("zoneId"), async (req, res) => {
+routerTrack.get("/zone/:zoneId/length/", param("zoneId"), async (req, res) => {
     const id = req.params.zoneId;
     const track = await getTotalTrackLengthByZoneId(id);
     res.json(track);

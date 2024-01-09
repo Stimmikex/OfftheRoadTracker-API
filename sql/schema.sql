@@ -49,4 +49,11 @@ CREATE TABLE IF NOT EXISTS zone_fence (
 );
 
 
+INSERT INTO area(name) VALUES ('Friðland að Fjallabaki');
+
+INSERT INTO type(name) VALUES ('Polygon');
+INSERT INTO type(name) VALUES ('Polyline');
+INSERT INTO type(name) VALUES ('Point');
+
+
 

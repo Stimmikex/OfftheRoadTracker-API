@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OfftheRoadTracker</title>
+  <link rel="stylesheet" type="text/css" href="./styles/styles.css">
+</head>
+<body>
+  <h1>OfftheRoadTracker</h1>
+  <div>
+    <h2>Areas</h2>
+    <% zoneById.forEach(zone => { %>
+      <div>
+        <p><%= zone.areaname %></p>
+        <a href="/zone">All the Zone fences for <%= zone.areaname %></a>
+        <div class="zoneContainer">
+          <% zone.zoneListItems.forEach(zoneItem => { %>
+            <div class="zoneContainer__zone">
+              <div class="zoneContainer__zone__info">
+                <a href="<%= `/track/zone/${zoneItem.id}` %>">
+                  <%= zoneItem.name %>
+                </a>
+                <p>Track Count: <%= zoneItem.trackCount %></p>
+                <a href="<%= `/track/zone/${zoneItem.id}/length` %>">
+                  <p>Length of tracks (in meters)</p>
+                </a>
+                <a href="<%= ` zone/${zoneItem.id} ` %>" class="zi_image">
+                  <p>Zone fench</p>
+                  <img src="images/icons/fence.png">
+                </a>
+              </div>
+              <div class="zoneContainer__zone__image">
+                <p>[Image]</p>
+              </div>
+            </div>
+          <% }) %>
+          </div>
+      </div>
+    <% }) %>
+  </div>
+</body>
+</html>
