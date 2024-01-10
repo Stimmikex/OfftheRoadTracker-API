@@ -76,6 +76,7 @@ app.get("/", async (req, res) => {
   try {
     const areas = await getAllAreas();
     const zonesPromises = areas.map(async (element) => {
+      const areaId = element.id;
       const areaname = element.name;
       const zones = await getZonesByAreaId(element.id);
 
@@ -90,6 +91,7 @@ app.get("/", async (req, res) => {
 
       return {
         areaname: areaname,
+        areaId: areaId,
         zoneListItems: zoneListItems,
       };
     });
@@ -105,8 +107,8 @@ app.get("/", async (req, res) => {
 
 app.use("/geojson", routerGeoJson);
 app.use("/area", routerArea);
-app.use("/zone", routerZones);
-app.use("/track", routerTrack);
+app.use("/area/:areaId/zone", routerZones);
+app.use("/area/:areaiId/track", routerTrack);
 
 const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => {

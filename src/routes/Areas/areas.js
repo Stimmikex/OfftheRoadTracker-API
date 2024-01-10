@@ -3,6 +3,7 @@ import express from "express";
 import { getAreaById, getAllAreas } from '../../dataOut/Areas/areas.js'
 import { getZonesByAreaId } from '../../dataOut/Areas/Zones/zones.js'
 import { param } from "express-validator";
+import { routerZones } from './Zones/zones.js';
 
 dotenv.config();
 

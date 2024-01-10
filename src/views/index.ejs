@@ -11,19 +11,19 @@
     <% zoneById.forEach(zone => { %>
       <div>
         <p><%= zone.areaname %></p>
-        <a href="/zone">All the Zone fences for <%= zone.areaname %></a>
+        <a href="<%=` /area/${zone.areaId}/zone` %>">All the Zone fences for <%= zone.areaname %></a>
         <div class="zoneContainer">
           <% zone.zoneListItems.forEach(zoneItem => { %>
             <div class="zoneContainer__zone">
               <div class="zoneContainer__zone__info">
-                <a href="<%= `/track/zone/${zoneItem.id}` %>">
+                <a href="<%= `/area/${zone.areaId}/track/zone/${zoneItem.id}` %>">
                   <%= zoneItem.name %>
                 </a>
                 <p>Track Count: <%= zoneItem.trackCount %></p>
-                <a href="<%= `/track/zone/${zoneItem.id}/length` %>">
+                <a href="<%= `/area/${zone.areaId}/track/zone/${zoneItem.id}/length` %>">
                   <p>Length of tracks (in meters)</p>
                 </a>
-                <a href="<%= ` zone/${zoneItem.id} ` %>" class="zi_image">
+                <a href="<%= `/area/${zone.areaId}/zone/${zoneItem.id} ` %>" class="zi_image">
                   <p>Zone fench</p>
                   <img src="images/icons/fence.png">
                 </a>
